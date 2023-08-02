@@ -4,7 +4,7 @@
 	"repository": "git@github.com:carlundmahren/tsx-translate.git",
 	"author": "CarlUndMahren",
 	"license": "MIT",
-	"main": "lib/index.js",
+	"main": "bin/translate-tsx",
 	"bin": {
 		"translate-tsx": "./bin/translate-tsx"
 	},
