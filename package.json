@@ -4,9 +4,9 @@
 	"repository": "git@github.com:carlundmahren/tsx-translate.git",
 	"author": "CarlUndMahren",
 	"license": "MIT",
-	"main": "bin/translate-tsx",
+	"main": "bin/tsx-translate",
 	"bin": {
-		"translate-tsx": "./bin/translate-tsx"
+		"translate-tsx": "./bin/tsx-translate"
 	},
 	"dependencies": {
 		"@babel/parser": "^7.22.7",
