@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"main": "lib/index.js",
 	"bin": {
-		"translate-tsx": "./bin/translate-tsx.js"
+		"translate-tsx": "./bin/translate-tsx"
 	},
 	"dependencies": {
 		"@babel/parser": "^7.22.7",
